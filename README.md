@@ -14,7 +14,7 @@ A blank template ready for your own favorite tools.
 - [parcel-bundler](https://parceljs.org/) the zero configuration web application bundler.
 - [koji-tools](https://www.npmjs.com/package/koji-tools) a library for making vcc integration easy.
 
-> ⚠️️ if you need to re-install parcel for some reason. the official npm package is `parcel-bundler` and not `parcel`.
+> ⚠️️ if you need to re-install parcel, the official npm package is `parcel-bundler` NOT `parcel`.
 
 ## Support
 ### Community

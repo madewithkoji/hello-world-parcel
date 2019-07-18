@@ -1,0 +1,12 @@
+{
+  "deploy": {
+    "subdomain": ".withkoji.com",
+    "frontend": {
+      "output": "dist",
+      "commands": [
+        "npm install",
+        "npm run build"
+      ]
+    }
+  }
+}

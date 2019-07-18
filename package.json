@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-parcel",
+  "version": "1.0.0",
+  "description": "Blank Koji template with parcel bunlder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "Koji",
+    "Hello",
+    "World",
+    "Parcel"
+  ],
+  "author": "gron",
+  "license": "ISC"
+}

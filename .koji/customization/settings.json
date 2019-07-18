@@ -1,0 +1,20 @@
+{
+    "settings": {
+      "name": "Hello World"
+    },
+    "@@editor": [
+      {
+        "key": "settings",
+        "name": "App settings",
+        "icon": "⚙️",
+        "source": "settings.json",
+        "fields": [
+          {
+            "key": "name",
+            "name": "App name",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  }

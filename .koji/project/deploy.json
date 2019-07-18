@@ -6,6 +6,8 @@
       "commands": [
         "npm install",
         "npm run build"
+      ],
+      "injections": [
       ]
     }
   }

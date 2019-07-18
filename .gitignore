@@ -1,0 +1,10 @@
+# Node Modules
+node_modules
+
+# Parcel Builds
+dist
+.cache
+
+# Koji
+Dockerfile
+.remy

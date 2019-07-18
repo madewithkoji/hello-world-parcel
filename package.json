@@ -1,7 +1,7 @@
 {
   "name": "hello-world-parcel",
   "version": "1.0.0",
-  "description": "Blank Koji template with parcel bunlder",
+  "description": "A blank Koji template with parcel bundler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,12 @@
   },
   "keywords": [
     "Koji",
-    "Hello",
-    "World",
+    "Hello World",
     "Parcel"
   ],
   "author": "gron",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }

@@ -1,5 +1,5 @@
 # Hello World with Parcel
-A blank template ready for your own favorite tools.
+A blank template ready for your favorite tools.
 
 ## VCCs
 > VCCs (Visual Customization Controls) help make your app easy for no-code creators to remix your app.

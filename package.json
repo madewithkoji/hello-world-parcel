@@ -4,11 +4,10 @@
   "description": "A blank Koji template with parcel bundler",
   "main": "index.js",
   "scripts": {
-    "prestart": "koji-tools watch &",
+    "prestart": "koji-vcc watch &",
     "start": "npx parcel index.html",
     "build": "npx parcel build index.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postbuild": "koji-tools pwa"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,7 @@
   "author": "gron",
   "license": "ISC",
   "dependencies": {
-    "koji-tools": "^0.5.1",
+    "@withkoji/vcc": "^1.0.8",
     "parcel-bundler": "^1.12.3"
   }
 }

@@ -11,8 +11,7 @@
  */
 
 // import and load koji configs
-import Koji from 'koji-tools'
-Koji.pageLoad()
+import Koji from '@withkoji/vcc'
 
 // set app name
 const config = Koji.config;

@@ -18,7 +18,7 @@ A blank template ready for your favorite tools.
 
 ## Support
 ### Community
-If you need any help, you can ask the community by [joining the discord](https://discordapp.com/invite/eQuMJF6).
+If you need any help, you can ask the community by [joining the discord](https://discord.com/invite/9egkTWf4ec).
 
 ### Resources
 - [Parcel Docs](https://parceljs.org/getting_started.html)
